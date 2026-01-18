@@ -75,34 +75,34 @@ const Contact = () => {
               <div className="flex items-center gap-4">
                 <FaEnvelope className="text-2xl text-gradient bg-gradient-to-r from-red-600 to-red-800" />
                 <a
-                  href="mailto:your.email@example.com"
+                  href="mailto:Srikantha.l598@gmail.com"
                   className="hover:text-red-600 transition-colors duration-300"
                 >
-                  your.email@example.com
+                  Srikantha.l598@gmail.com
                 </a>
               </div>
 
               <div className="flex items-center gap-4">
                 <FaGithub className="text-2xl text-gradient bg-gradient-to-r from-red-600 to-red-800" />
                 <a
-                  href="https://github.com/your-username"
+                  href="https://github.com/Srikantha98"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-red-600 transition-colors duration-300"
                 >
-                  github.com/your-username
+                  github.com/Srikantha98
                 </a>
               </div>
 
               <div className="flex items-center gap-4">
                 <FaLinkedin className="text-2xl text-gradient bg-gradient-to-r from-red-600 to-red-800" />
                 <a
-                  href="https://linkedin.com/in/your-linkedin"
+                  href="https://www.linkedin.com/in/srikanthal05"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-red-600 transition-colors duration-300"
                 >
-                  linkedin.com/in/your-linkedin
+                  linkedin.com/in/srikanthal05
                 </a>
               </div>
             </div>

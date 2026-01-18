@@ -132,10 +132,10 @@ const Hero = () => {
             </motion.a>
 
             <div className="flex gap-5 text-2xl text-slate-400">
-              <a href="#" className="hover:text-red-500 transition">
+              <a href="https://github.com/Srikantha98" className="hover:text-red-500 transition">
                 <FaGithub />
               </a>
-              <a href="#" className="hover:text-red-500 transition">
+              <a href="https://www.linkedin.com/in/srikanthal05" className="hover:text-red-500 transition">
                 <FaLinkedin />
               </a>
             </div>

@@ -3,26 +3,26 @@ const educationData = [
     degree: "M.Tech in Computer Science and Engineering",
     institution: "Your University Name",
     duration: "2024 – Present",
-    cgpa: "CGPA: —",
+    cgpa: "CGPA: —", // Update with actual CGPA if available
     highlights: [
-      "Currently pursuing 2nd Year in Computer Science and Engineering",
-      "Focused on Machine Learning, Artificial Intelligence, and full-stack development",
+      "Currently pursuing M.Tech in Computer Science and Engineering, 2nd Year",
+      "Specializing in Machine Learning, Artificial Intelligence, and Full-Stack Development",
       "Strong foundation in Data Structures, Algorithms, DBMS, Operating Systems, and Computer Networks",
-      "Experience building scalable backend systems and web applications",
-      "Active participation in academic and research projects related to AI and software engineering",
+      "Hands-on experience designing and developing scalable backend systems and web applications",
+      "Active involvement in academic and research projects focusing on AI and software engineering",
     ],
   },
   {
     degree: "B.Tech in Computer Science and Engineering",
     institution: "Your University Name",
     duration: "2020 – 2024",
-    cgpa: "CGPA: —",
+    cgpa: "CGPA: —", // Update with actual CGPA if available
     highlights: [
       "Completed undergraduate studies in Computer Science and Engineering",
-      "Gained hands-on experience with web development, backend systems, and software design",
-      "Studied key subjects including Machine Learning, Artificial Intelligence, and Database Management",
-      "Developed academic, mini, and final-year projects, applying theoretical concepts to real-world solutions",
-      "Built a strong interest in software engineering, problem solving, and system design",
+      "Gained practical experience in web development, backend systems, and software design",
+      "Studied advanced topics including Machine Learning, Artificial Intelligence, and Database Management",
+      "Delivered academic, mini, and final-year projects applying theoretical knowledge to real-world solutions",
+      "Developed strong problem-solving skills and a keen interest in system design and software engineering",
     ],
   },
 ];

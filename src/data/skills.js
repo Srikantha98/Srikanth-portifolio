@@ -14,6 +14,7 @@ import {
   SiMysql,
   SiPython,
   SiPostman,
+  SiLeetcode,
 } from "react-icons/si";
 
 const skillsData = [
@@ -30,10 +31,10 @@ const skillsData = [
   {
     category: "Backend",
     skills: [
-      { name: "FastAPI", icon: SiFastapi },
-      { name: "Python", icon: SiPython },
       { name: "Node.js", icon: FaServer },
-      { name: "REST APIs", icon: SiPostman },
+      { name: "Python", icon: SiPython },
+      { name: "FastAPI", icon: SiFastapi },
+      { name: "REST APIs & Postman", icon: SiPostman },
     ],
   },
   {
@@ -49,7 +50,7 @@ const skillsData = [
     skills: [
       { name: "Git & GitHub", icon: FaGithub },
       { name: "System Design", icon: FaServer },
-      { name: "Data Structures & Algorithms", icon: FaJs },
+      { name: "Data Structures & Algorithms", icon: SiLeetcode },
     ],
   },
 ];
