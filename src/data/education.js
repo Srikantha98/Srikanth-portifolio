@@ -1,7 +1,7 @@
 const educationData = [
   {
     degree: "M.Tech in Computer Science and Engineering",
-    institution: "Your University Name",
+    institution: "University of Visvesvaraya College of Engineering",
     duration: "2024 – Present",
     cgpa: "CGPA: —", // Update with actual CGPA if available
     highlights: [
@@ -14,7 +14,7 @@ const educationData = [
   },
   {
     degree: "B.Tech in Computer Science and Engineering",
-    institution: "Your University Name",
+    institution: "University of Visvesvaraya College of Engineering (UVCE)",
     duration: "2020 – 2024",
     cgpa: "CGPA: —", // Update with actual CGPA if available
     highlights: [
