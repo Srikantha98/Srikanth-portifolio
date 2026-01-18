@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const educationData = [
   {
     degree: "M.Tech in Computer Science and Engineering",
-    institution: "Your University / College Name",
+    institution: "University of Visvesvaraya College of Engineering",
     duration: "2024 – Present",
     details: [
       "Currently pursuing 2nd Year M.Tech in Computer Science and Engineering",
@@ -14,7 +14,7 @@ const educationData = [
   },
   {
     degree: "B.Tech in Computer Science and Engineering",
-    institution: "Your University / College Name",
+    institution: "University of Visvesvaraya College of Engineering",
     duration: "2020 – 2024",
     details: [
       "Completed undergraduate studies in Computer Science and Engineering",
